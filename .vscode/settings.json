@@ -1,3 +1,8 @@
 {
-  "editor.fontSize": 12
+  "editor.fontSize": 12,
+  "C_Cpp.errorSquiggles": "Enabled",
+  "files.associations": {
+    "stdlib.h": "c",
+    "typeinfo": "c"
+  }
 }
